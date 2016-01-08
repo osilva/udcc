@@ -1,2 +1,2 @@
 # udcc
-configurations for udcc
+configurations for udcc by Oscar
